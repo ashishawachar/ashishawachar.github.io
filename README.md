@@ -1,6 +1,11 @@
-## Work Experience
+## Experience
 
-* ### GSLab, Pune ![GSLab(https://www.gslab.com/wp-content/uploads/2017/02/logo-1.jpg)]
+* ### GSLab, Pune ```Aug 2016 - Present```
+    - Software Engineer
+
+## Education
+
+* ### D Y Patil College of Enginnering, Pune ```2012 - 2016```
     - Software Engineer
 
 ### Markdown
