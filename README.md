@@ -1,6 +1,6 @@
 ## Experience
 
-* ### GSLab, Pune ```Aug 2016 - Present```
+* ### GSLab, Pune `Aug 2016 - Present`
     - Software Engineer
 
 ## Education
