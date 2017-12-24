@@ -8,7 +8,8 @@
 * D Y Patil College of Enginnering, Pune [```2012 - 2016```]
     - Software Engineer
 
-:pencil:## Projects
+:pencil2:
+## Projects
 
 ### Markdown
 
