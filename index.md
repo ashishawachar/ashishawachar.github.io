@@ -29,7 +29,7 @@ permalink: /
 * **Graduation**                                                `2012 - 2016`   <br/>
   <small>
     Pursued bachelor's degree in 
-    **Computer Science** :computer: from                        <br/>
+    **Computer Science** from                        <br/>
     **D Y Patil College of Engineering, <i class="fa fa-map-marker" aria-hidden="true"></i> Akurdi, Pune.**
   </small>
 
