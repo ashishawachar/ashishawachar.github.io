@@ -1,9 +1,7 @@
 ## Work Experience
 
-* ### Software Engineer, GSLab
-You can use the [editor on GitHub](https://github.com/abhishek-mane/test-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* ### GSLab, Pune ![GSLab(https://www.gslab.com/wp-content/uploads/2017/02/logo-1.jpg)]
+    - Software Engineer
 
 ### Markdown
 
