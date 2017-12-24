@@ -12,10 +12,9 @@
 
 ## Projects
 
+[ ```Nov 2015 - March 2016``` ]
 * ### Vulnerability Assessment using Logs as BIG DATA
-    - #### Duration - 6 Months
-    - #### Technologies - Apache hadoop 2.7.1, Apache Pig, Java, Python, MySQL & Web technologies
-    - #### Description - An idea behind the topic was building a linux based system, capable of detecting and notifying the vulnerabilities of each and every machine of the organization to the administrator. Vulnerabilities may include an intrusion detection, password cracking attempts or other security issues. This idea can be implemented by creating centralized server which can collect system logs of the nodes and analyses them using BIG DATA techniques like Apache Hadoop.
+    An idea behind the topic was building a linux based system, capable of detecting and notifying the vulnerabilities of each and every machine of the organization to the administrator. Vulnerabilities may include an intrusion detection, password cracking attempts or other security issues. This idea can be implemented by creating centralized server which can collect system logs of the nodes and analyses them using BIG DATA techniques like Apache Hadoop.
 
 ### Markdown
 
