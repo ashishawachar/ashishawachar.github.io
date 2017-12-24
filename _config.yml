@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Abhishek Mane"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Software Developer"
+  bio              : ":computer: Software Developer"
   location         : "Pune, Maharashtra, India"
   email            : "abhishekmane@outlook.in"
   uri              :
