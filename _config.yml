@@ -1,5 +1,0 @@
-theme: jekyll-theme-time-machine
-webrick:
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value
