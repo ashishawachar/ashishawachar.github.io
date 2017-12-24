@@ -5,7 +5,7 @@
 
 ## Education
 
-* ### D Y Patil College of Enginnering, Pune [```2012 - 2016```]
+* D Y Patil College of Enginnering, Pune [```2012 - 2016```]
     - Software Engineer
 
 ### Markdown
