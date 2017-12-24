@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Portfolio"
 title_separator          : "-"
 name                     : "Abhishek Mane"
-description              : "<i class='fa fa-laptop' aria-hidden='true'></i> Software Developer"
+description              : "Software Developer"
 url                      : # the base hostname & protocol for your site e.g. "https://abhishek-mane.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,7 +83,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abhishek Mane"
+  name             : "Abhishek Mane <i class='fa fa-check' aria-hidden='true'></i>"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "<i class='fa fa-laptop' aria-hidden='true'></i> Software Developer"
   location         : "Pune, Maharashtra, India"
