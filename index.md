@@ -2,7 +2,10 @@
 layout: single
 author_profile: true
 permalink: /
+toc: true
 ---
+
+<button class='btn btn--danger'>Site is under maintenance...</button>
 
 <!-- 
   <==========================> START  : Experience
@@ -30,6 +33,23 @@ permalink: /
   <small>Projects are yet to add. working on it...</small>
 <!-- 
   <==========================> END    : Projects
+-->
+<!-- ----------------------------------------------------------------------------------------------------------- -->
+<!-- 
+  <==========================> START  : Programming Skills
+-->
+## Programming      <i class='fa fa-laptop' aria-hidden='true'></i>
+  <small>
+    I've good programming experience with languages,
+  <small>
+  - `JavaScript`
+  - `Go`
+  - `C`
+  - `Python`
+  - `Java`
+
+<!-- 
+  <==========================> END    : Programming Skills
 -->
 <!-- ----------------------------------------------------------------------------------------------------------- -->
 <!-- 
@@ -66,23 +86,6 @@ permalink: /
 -->
 <!-- ----------------------------------------------------------------------------------------------------------- -->
 <!-- 
-  <==========================> START  : Programming Skills
--->
-## Programming Skills   <i class='fa fa-laptop' aria-hidden='true'></i>
-  <small>
-    I've good programming experience with languages,
-  <small>
-  - `C`
-  - `JavaScript`
-  - `Python`
-  - `Java`
-  - `Go`
-
-<!-- 
-  <==========================> END    : Programming Skills
--->
-<!-- ----------------------------------------------------------------------------------------------------------- -->
-<!-- 
   <==========================> START  : Contact
 -->
 ## Contact   <i class='fa fa-phone-square' aria-hidden='true'></i>
@@ -96,3 +99,30 @@ permalink: /
 <!-- 
   <==========================> END    : Contact
 -->
+
+Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
+{: .notice--info}
+
+Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
+{: .notice--danger}
+
+Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
+{: .notice--success}
+
+Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
+{: .notice--warning}
+
+Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
+{: .notice--primary}
+
+<button class='btn btn--primary'>Primary</button>
+<button class='btn btn--inverse'>Inverse</button>
+<button class='btn btn--light-outline'>Light Outline</button>
+<button class='btn btn--success'>Success</button>
+<button class='btn btn--warning'>Warning</button>
+<button class='btn btn--danger'>Danger</button>
+<button class='btn btn--info'>Info</button>
+<button class='btn btn--facebook'>Facebook</button>
+<button class='btn btn--twitter'>Twitter</button>
+<button class='btn btn--google-plus'>Google Plus</button>
+<button class='btn btn--linkedin'>LinkedIn</button>
