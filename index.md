@@ -31,7 +31,7 @@ toc: true
 -->
 ## Projects         <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
   * **Vulnerability Assesment using Logs as BIG DATA** 
-  <a style='text-decoration:none;' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'>view on <i class="fa fa-github" aria-hidden="true"></i></a>
+  <a style='text-decoration:none;' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'><code>view on <i class="fa fa-github" aria-hidden="true"></i></code></a>
 
   * **Vulnerability Assesment using Logs as BIG DATA** <a style='text-decoration:none;' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'><i class="fa fa-github" aria-hidden="true"></i> <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
 
