@@ -30,7 +30,7 @@ toc: true
   <==========================> START  : Projects
 -->
 ## Projects         <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
-  * **Vulnerability Assesment using Logs as BIG DATA** <a target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment' class='btn btn--small btn--linkedin'>View on <i class="fa fa-github" aria-hidden="true"></i></a>
+  * **Vulnerability Assesment using Logs as BIG DATA** <a target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment' class='btn btn--nano btn--linkedin'>View on <i class="fa fa-github" aria-hidden="true"></i></a>
 <!-- 
   <==========================> END    : Projects
 -->
@@ -128,3 +128,4 @@ Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These fold
 <button class='btn btn--linkedin'>LinkedIn</button>
 <button class='btn btn--small btn--linkedin'>LinkedIn</button>
 <button class='btn btn--tiny btn--linkedin'>LinkedIn</button>
+<button class='btn btn--nano btn--linkedin'>LinkedIn</button>
