@@ -33,9 +33,9 @@ toc: true
   * **Vulnerability Assesment using Logs as BIG DATA** 
   <a style='text-decoration:none;' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'><code>view on <i class="fa fa-github" aria-hidden="true"></i></code></a>
 
-  <!-- * **Vulnerability Assesment using Logs as BIG DATA** <a style='text-decoration:none;' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'><i class="fa fa-github" aria-hidden="true"></i></a>
+  <!-- * **Vulnerability Assesment using Logs as BIG DATA** <a style='text-decoration:none;' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'><i class="fa fa-github" aria-hidden="true"></i></a> -->
 
-  * **Project Name** 
+  <!-- * **Project Name** 
   <a style='text-decoration:none;' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'><i class="fa fa-github-alt" aria-hidden="true"></i></a> -->
 
   <!-- <a target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment' class='btn btn--nano btn--linkedin'>View on <i class="fa fa-github" aria-hidden="true"></i></a> -->
