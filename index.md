@@ -35,20 +35,8 @@ toc: true
 
   * **Vulnerability Assesment using Logs as BIG DATA** <a style='text-decoration:none;' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'><i class="fa fa-github" aria-hidden="true"></i> <i class="fa fa-mail-forward" aria-hidden="true"></i></a>
 
-  * **Vulnerability Assesment using Logs as BIG DATA** 
-  <a style='text-decoration:none;' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'><i class="fa fa-github" aria-hidden="true"></i> <i class="fa fa-external-link" aria-hidden="true"></i></a>
-
-  * **Vulnerability Assesment using Logs as BIG DATA** 
-  <a style='text-decoration:none;' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'><i class="fa fa-github" aria-hidden="true"></i> <i class="fa fa-paper-plane" aria-hidden="true"></i></a>
-
-  * **Vulnerability Assesment using Logs as BIG DATA** 
-  <a style='text-decoration:none;' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'><i class="fa fa-github-square" aria-hidden="true"></i></a>
-
-  * **Vulnerability Assesment using Logs as BIG DATA** 
+  * **Project Name** 
   <a style='text-decoration:none;' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'><i class="fa fa-github-alt" aria-hidden="true"></i></a>
-
-  * **Vulnerability Assesment using Logs as BIG DATA** 
-  <a class='btn btn--nano btn--inverse' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'>view on <i class="fa fa-github" aria-hidden="true"></i></a>
 
   <!-- <a target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment' class='btn btn--nano btn--linkedin'>View on <i class="fa fa-github" aria-hidden="true"></i></a> -->
 <!-- 
