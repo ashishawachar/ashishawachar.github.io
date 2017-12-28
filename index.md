@@ -30,7 +30,9 @@ toc: true
   <==========================> START  : Projects
 -->
 ## Projects         <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
-  * **Vulnerability Assesment using Logs as BIG DATA** <a target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment' class='btn btn--nano btn--linkedin'>View on <i class="fa fa-github" aria-hidden="true"></i></a>
+  * **Vulnerability Assesment using Logs as BIG DATA** <a class='notice--primary' target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment'>view on <i class="fa fa-github" aria-hidden="true"></i></a>
+
+  <!-- <a target='_blank' href='https://github.com/abhishek-mane/vulnerability-assessment' class='btn btn--nano btn--linkedin'>View on <i class="fa fa-github" aria-hidden="true"></i></a> -->
 <!-- 
   <==========================> END    : Projects
 -->
