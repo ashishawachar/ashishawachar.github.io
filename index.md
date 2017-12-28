@@ -30,8 +30,8 @@ toc: true
   <==========================> START  : Projects
 -->
 ## Projects         <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
-  * **Vulnerability Assesment using**
-    **Logs as BIG DATA** <button class='btn btn--linkedin'>View on <i class="fa fa-github" aria-hidden="true"></i></button>
+  * **Vulnerability Assesment using**<br/>
+    **Logs as BIG DATA** <a href='https://github.com/abhishek-mane/vulnerability-assessment' class='btn btn--linkedin'>View on <i class="fa fa-github" aria-hidden="true"></i></a>
 <!-- 
   <==========================> END    : Projects
 -->
