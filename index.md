@@ -124,7 +124,7 @@ Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These fold
 <button class='btn btn--info'>Info</button>
 <button class='btn btn--facebook'>Facebook</button>
 <button class='btn btn--twitter'>Twitter</button>
-<button class='btn btn--google-plus'>Google Plus</button>
+<button class='btn btn--google-plus'>Google Plus</button><br/>
 <button class='btn btn--linkedin'>LinkedIn</button>
 <button class='btn btn--small btn--linkedin'>LinkedIn</button>
 <button class='btn btn--tiny btn--linkedin'>LinkedIn</button>
