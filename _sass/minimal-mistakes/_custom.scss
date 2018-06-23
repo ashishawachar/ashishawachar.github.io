@@ -1,0 +1,78 @@
+.skills_table{
+    border: none; 
+    width: 100%;
+}
+
+.skills_table > tbody > tr > td {
+    text-align: left; 
+    border-bottom: none;
+    font-size: 1em;
+}
+
+.skills_table > tbody > tr > td > svg{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.skills_table > tbody > tr > img {
+    height: 39px;
+}
+
+.skills_table > tbody > tr > td > div{
+    width: 100%;
+    border-radius:5px;
+    background-color: #ddd;
+}
+
+.skills_table > tbody > tr > td > div > div{
+    background-color: #222;
+    line-height: 5px;
+    color: #222;
+    border-radius:5px;
+}
+
+div.cv_content{
+    font-size: 0.875em;
+}
+
+div.cv_content > ul > li{
+    margin-bottom: 15px;
+}
+
+div.cv_content > ul > li > span{
+    // color: #545454;
+    color: #333333;
+    font-size: 0.8125em;
+}
+
+code {
+    white-space:nowrap;
+}
+
+.live-label{
+    background-color: #62c462;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+.rnd-label{
+    background-color: #3b5998;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+.tech-label{
+    color: black;
+    font-weight: bold;
+    border: 1px solid #DADFE1;
+    background-color: white;
+}
+
+.tech-label:hover{
+    color: black;
+    font-weight: bold;
+    border: 1px solid #95A5A6;
+    background-color: white;
+}
