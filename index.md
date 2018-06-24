@@ -56,7 +56,7 @@ date: 2018-06-23T17:10:45.025Z
       <code class="highlighter-rouge ">Jan 2018 - Mar 2018</code>
       <br/>
       <span>
-        This is basically the docker-compose dynamic script designed for developer to setup the entire dev environment easily and test the local changes. Advantages of this over the kubernetes deplyments are, <strong><i>On the fly code changes, DNS proxy server</i></strong> etc.
+        This is basically the docker-compose dynamic script designed for developer to setup the entire dev environment easily and test the local changes. Advantages of this over the kubernetes deployment are, <strong><i>On the fly code changes, DNS proxy server</i></strong> etc.
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>Python</button>
         <button class='btn btn--small btn--light-outline tech-label'>Docker</button>
