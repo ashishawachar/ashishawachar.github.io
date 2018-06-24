@@ -18,7 +18,7 @@ date: 2018-06-23T17:10:45.025Z
       <code class="highlighter-rouge ">Aug 2016 - Present</code>
       <br/>
       <span>
-        <i class='fa fa-laptop' aria-hidden='true'> Software Developer</i>
+        <i class='fa fa-laptop' aria-hidden='true'></i> <i>Software Developer</i>
       </span>
     </li>
   </ul>
