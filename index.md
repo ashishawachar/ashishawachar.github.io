@@ -73,6 +73,7 @@ date: 2018-06-23T17:10:45.025Z
         <button class='btn btn--small btn--light-outline tech-label'>NodeJS</button>
         <button class='btn btn--small btn--light-outline tech-label'>CouchDB</button>
         <button class='btn btn--small btn--light-outline tech-label'>Node-RED</button>
+        <button class='btn btn--small btn--light-outline tech-label'>Raspberry Pi</button>
         <button class='btn btn--small btn--light-outline tech-label'>IBM IoT Platform</button>
         <a class='btn btn--small btn--primary'>VIEW ON <i class="fa fa-github" aria-hidden="true"></i></a>
       </span>
