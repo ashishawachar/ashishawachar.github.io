@@ -83,7 +83,7 @@ date: 2018-06-23T17:10:45.025Z
       <code class="highlighter-rouge ">Sep 2017 - Oct 2017</code>
       <br/>
       <span>
-        Internal POC to read raw data in spark cluster and finds the correlation between data to provide more insights and statistics. Spark was deployed on the top of Hadoop.
+        Internal POC to read raw data in spark cluster and finds the correlation between data to provide more insights and statistics. Spark was deployed on top of Hadoop.
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>Spark</button>
         <button class='btn btn--small btn--light-outline tech-label'>Hadoop</button>
@@ -93,7 +93,7 @@ date: 2018-06-23T17:10:45.025Z
       </span>
     </li>
     <li>
-      <strong>Vulnerability Assessment Using logs as Big Data</strong>
+      <strong>Vulnerability Assessment using logs as Big Data</strong>
       <code class="highlighter-rouge ">June 2015 - May 2016</code><br/>
       <span>
         A linux based system capable of detecting and notifying vulnerabilities (like intrusions, password cracking attempt, etc) of each and every machine by collecting system logs and analyze them using Hadoop.
