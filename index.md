@@ -65,7 +65,7 @@ date: 2018-06-23T17:10:45.025Z
     </li>
     <li>
       <strong>Air Quality Monitoring</strong>
-      <code class="highlighter-rouge ">June 2015 - May 2016</code>
+      <code class="highlighter-rouge ">Oct 2017 - Dec 2017</code>
       <br/>
       <span>
         Its a central air quality monitoring dashbard which will help people of the city to identify how affected is the particular area with dangerous pollutants. Air quality sensor simulators were used to periodically send the data to central service for analysis.
