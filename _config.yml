@@ -5,14 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "contrast" # "air", "contrast", neon", "mint", "default"
+minimal_mistakes_skin    : "dust" # "contrast", "air", "contrast", neon", "mint", "default"
 
 # Site Settings
 locale                   : "en"
 title                    : "Portfolio"
 title_separator          : "-"
-name                     : "Abhishek Mane"
-description              : "Software Developer"
+name                     : "Ashish Awachar"
+description              : "Test Automation Engineer"
 url                      : # the base hostname & protocol for your site e.g. "https://abhishek-mane.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,16 +83,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abhishek Mane <i class='fa fa-check' aria-hidden='true'></i>"
+  name             : "Ashish Awachar <i class='fa fa-check' aria-hidden='true'></i>"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "<i class='fa fa-laptop' aria-hidden='true'></i> Software Developer"
   location         : "Pune, Maharashtra, India"
-  email            : "abhishekmane@outlook.in"
+  email            : "ashishawachar94@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  github           : "abhishek-mane"
-  gitlab           : "abhishek-mane"
-  bitbucket        : "abhishek-mane"
+  github           : "ashish-awachar"
+  gitlab           : "ashish-awachar"
+  bitbucket        : "ashish-awachar"
   codepen          :
   dribbble         :
   flickr           :
@@ -103,9 +103,9 @@ author:
   instagram        : #"abhishek.v.mane"
   lastfm           :
   linkedin         : "abhishek-mane"
-  pinterest        : "abhishekvmane"
+  pinterest        : " "
   soundcloud       :
-  stackoverflow    : "9135932/abhishek-mane"
+  stackoverflow    : " "
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
