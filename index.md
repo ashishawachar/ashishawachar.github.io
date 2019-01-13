@@ -18,7 +18,7 @@ date: 2018-06-23T17:10:45.025Z
       <code class="highlighter-rouge ">Aug 2016 - Present</code>
       <br/>
       <span>
-        <i class='fa fa-laptop' aria-hidden='true'></i> <i>Software Developer</i>
+        <i class='fa fa-laptop' aria-hidden='true'></i> <i>Automation Test Engineer</i>
       </span>
     </li>
   </ul>
@@ -280,7 +280,7 @@ date: 2018-06-23T17:10:45.025Z
       <br/>
       <span>
         <i>
-          <i class="fa fa-institution" aria-hidden="true"></i> D. Y. Patil College of Engineering, <i class="fa fa-map-marker" aria-hidden="true"></i> Akurdi, Pune.
+          <i class="fa fa-institution" aria-hidden="true"></i> K. K. Wagh College of Engineering, <i class="fa fa-map-marker" aria-hidden="true"></i> Nashik.
         </i>
       </span>
     </li>
@@ -290,7 +290,7 @@ date: 2018-06-23T17:10:45.025Z
       <br/>
       <span>
         <i>
-          <i class="fa fa-institution" aria-hidden="true"></i> Bharat English School & Jr. College, <i class="fa fa-map-marker" aria-hidden="true"></i> Shivajinagar, Pune.
+          <i class="fa fa-institution" aria-hidden="true"></i> Bharat Jr. College, <i class="fa fa-map-marker" aria-hidden="true"></i> Buldana.
         </i>
       </span>
     </li>
@@ -300,7 +300,7 @@ date: 2018-06-23T17:10:45.025Z
       <br/>
       <span>
         <i>
-          <i class="fa fa-institution" aria-hidden="true"></i> Prerana Prathmik & Madhyamik Vidyalaya <i class="fa fa-map-marker" aria-hidden="true"></i> Pune.
+          <i class="fa fa-institution" aria-hidden="true"></i>Bharat Vidyalaya <i class="fa fa-map-marker" aria-hidden="true"></i> Buldana.
         </i>
       </span>
     </li>
