@@ -318,10 +318,10 @@ date: 2018-06-23T17:10:45.025Z
 <div class="cv_content">
   <small>
     <i class='fa fa-phone' aria-hidden='true'></i> 
-    <a style ="text-decoration: none;" href="tel:+918626073884">(+91) 86260 73884</a>
+    <a style ="text-decoration: none;" href="tel:+918626073884">(+91) 9421143578</a>
     <br/>
     <i class='fa fa-envelope' aria-hidden='true'></i> 
-    <a style ="text-decoration: none;" href="mailto:abhishekmane@outlook.in">abhishekmane@outlook.in</a>
+    <a style ="text-decoration: none;" href="mailto:ashishawachar94@gmail.com">ashishawachar94@gmail.com</a>
   </small>
 </div>
 <!-- 
