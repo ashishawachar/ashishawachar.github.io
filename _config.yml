@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "mint" # "contrast", "air", "contrast", neon", "mint", "default"
+minimal_mistakes_skin    : "dirt" # "contrast", "air", "contrast", neon", "mint", "default"
 
 # Site Settings
 locale                   : "en"
@@ -13,7 +13,7 @@ title                    : "Portfolio"
 title_separator          : "-"
 name                     : "Ashish Awachar"
 description              : "Test Automation Engineer"
-url                      : # the base hostname & protocol for your site e.g. "https://abhishek-mane.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://ashishawachar.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -85,14 +85,14 @@ analytics:
 author:
   name             : "Ashish Awachar <i class='fa fa-check' aria-hidden='true'></i>"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "<i class='fa fa-laptop' aria-hidden='true'></i> Software Developer"
+  bio              : "<i class='fa fa-laptop' aria-hidden='true'></i> Automation Test Engineer"
   location         : "Pune, Maharashtra, India"
   email            : "ashishawachar94@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  github           : "ashish-awachar"
-  gitlab           : "ashish-awachar"
-  bitbucket        : "ashish-awachar"
+  github           : "ashishawachar"
+  gitlab           : "ashishawachar"
+  bitbucket        : "ashishawachar"
   codepen          :
   dribbble         :
   flickr           :
@@ -100,9 +100,9 @@ author:
   foursquare       :
   google_plus      :
   keybase          :
-  instagram        : #"abhishek.v.mane"
+  instagram        : #"ashish.rajput_10"
   lastfm           :
-  linkedin         : "abhishek-mane"
+  linkedin         : "ashish-awachar-a9421143500"
   pinterest        : " "
   soundcloud       :
   stackoverflow    : " "
