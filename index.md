@@ -43,7 +43,7 @@ date: 2018-06-23T17:10:45.025Z
       <code class="highlighter-rouge live-label">LIVE</code>
       <br/>
       <span>
-        Cost and Asset Management gives hybrid cloud users real-time visibility and actionable insight into their cloud investments.
+        Cost and Asset Management gives hybrid cloud users real-time visibility and actionable insight into their cloud investments. Worked on the UI Automation for CAM.
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>Protractor</button>
         <button class='btn btn--small btn--light-outline tech-label'>Javascript</button>
@@ -70,7 +70,7 @@ date: 2018-06-23T17:10:45.025Z
       <code class="highlighter-rouge ">Mar 2017 - Jul 2017</code>
       <br/>
       <span>
-        IBM Cloud Orchestrator is a cloud management platform that automates provisioning of cloud services using policy-based tools. Worked on UI automation fo the same.
+        IBM Cloud Orchestrator is a cloud management platform that automates provisioning of cloud services using policy-based tools. Worked on UI automation for the same.
         <br/>
         <button class='btn btn--small btn--light-outline tech-label'>Selenium</button>
         <button class='btn btn--small btn--light-outline tech-label'>Java</button>
