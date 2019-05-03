@@ -195,9 +195,9 @@ date: 2018-06-23T17:10:45.025Z
           </div>
         </td>
    </tr>
-<!--    </tbody>
+  </tbody>
   </table>
-</div> -->
+</div> 
 <!-- 
   <==========================> END    : Programming Skills
 -->
